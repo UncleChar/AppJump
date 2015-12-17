@@ -3,3 +3,5 @@
 
 需要设置plist里面一些字段
 
+
+Singleton是其他demo
